@@ -1,0 +1,16 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lin",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
